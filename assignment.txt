@@ -1,0 +1,9 @@
+1) String Data type
+A string is a data type used to represent a sequence of characters. It is commonly used to store and manipulate text. 
+Strings are used with either double quotes ("") or single quotes ('') and it is important to note that strings are immutable i.e they cannot be changed after creation
+Some common string methods are: split(), join(), and toLowerCase() e.t.c.
+
+2) Number Data type
+A number data type is used to store and manipulate numerical values. It represents both integers and floating-point numbers.
+This type allows for mathematical operations such as addition, subtraction and logical comparisons.
+Some common number methods are; isInteger(), parseInt(), parseFloat() e.t.c.
